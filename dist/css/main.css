@@ -207,6 +207,7 @@ button {
 }
 
 .header__link {
+  color: #22356f;
   font-weight: 400;
   padding: 10px 7px;
 }
@@ -373,7 +374,7 @@ button {
 
 .info__cards .card:nth-child(3) {
   background-color: #76b58b;
-  background-image: url(https://antonvasilenko00.github.io/Thrivetalk-landing-page//dist/assets/img/nutrition.png);
+  background-image: url(https://antonvasilenko00.github.io/Thrivetalk-landing-page/./dist/assets/img/nutrition.png);
   background-size: cover;
   background-repeat: no-repeat;
 }

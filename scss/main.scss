@@ -153,6 +153,7 @@ button {
 	}
 
 	&__item {
+		color: $dark-color;
 		position: relative;
 		font-weight: bold;
 		margin-left: 19px;
@@ -369,7 +370,7 @@ button {
 			}
 			&:nth-child(3) {
 				background-color: #76b58b;
-				background-image: url(https://antonvasilenko00.github.io/Thrivetalk-landing-page/.dist/assets/img/nutrition.png);
+				background-image: url(https://antonvasilenko00.github.io/Thrivetalk-landing-page/dist/assets/img/nutrition.png);
 				background-size: cover;
 				background-repeat: no-repeat;
 			}
